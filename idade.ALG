@@ -14,6 +14,6 @@ Inicio
            escreval("Maioridade")
       fimse
       
-      escrevaL("=== FIM ===")
+      escreval("=== FIM ===")
       
 Fimalgoritmo
